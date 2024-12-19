@@ -1,0 +1,5311 @@
+[
+   {
+      "text": "Lord Shiva is one of the principal deities of Hinduism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Parvati is the goddess of fertility, love, and devotion.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered in many parts of India.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Krishna is considered the supreme god in Vaishnavism.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Brahma is the creator god in Hinduism, responsible for the creation of the universe.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha, the elephant-headed god, is worshipped before starting any new venture.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lakshmi is the goddess of wealth, prosperity, and good fortune.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Durga is a warrior goddess, representing the victory of good over evil.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Saraswati, the goddess of knowledge, is revered by students and scholars.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Hanuman is a central figure in the Indian epic Ramayana, known for his devotion and strength.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Rama, the seventh incarnation of Vishnu, defeated Ravana in the battle of Lanka.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Krishna delivered the Bhagavad Gita to Arjuna on the battlefield of Kurukshetra.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Radha, the consort of Lord Krishna, symbolizes love and devotion.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shiva and Parvati are often depicted together, symbolizing the balance of masculine and feminine energy.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (12,
+            19,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Indra is the king of gods in Hindu mythology, associated with rain, thunder, and war.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Agni, the fire god, is one of the key deities in the Vedic tradition.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Vayu is the god of wind, an important figure in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Surya, the sun god, is one of the most powerful deities in Hinduism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Varuna, the god of water, is one of the Adityas in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Kartikeya, the god of war and victory, is the son of Shiva and Parvati.",
+      "labels": {
+         "entities": [(0,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Vishnu is often depicted with a conch, discus, and mace in his four hands.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Goddess Kali is a symbol of destruction and transformation in Hinduism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ram is a symbol of virtue and righteousness in the Ramayana.",
+      "labels": {
+         "entities": [(0,
+            3,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Krishna, as a divine incarnation, is worshipped across the world in various forms.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Matsya, the fish incarnation of Vishnu, saved the sacred scriptures from the great flood.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Vishnu's avatar, Narasimha, is half-man and half-lion, symbolizing the destruction of evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped during the festival of Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Buddha, also considered an enlightened being, is revered in many countries.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shakti is the divine feminine power, represented by many goddesses including Durga and Parvati.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shiva is often portrayed in a meditative pose, symbolizing his role as the lord of meditation and asceticism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Ravana, the demon king, is also a devotee of Lord Shiva in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Sita, the wife of Lord Ram, is a revered figure in the Ramayana.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Balarama, the older brother of Krishna, is known for his strength and bravery.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Ganga, the goddess of the river Ganges, is revered for her purity and sanctity.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Hanuman, a devotee of Lord Ram, is known for his unwavering loyalty and strength.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ayyappa, a popular god in South India, is worshipped by millions.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is often depicted with a veena, symbolizing knowledge and learning.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Raghavendra Swami is a revered saint and spiritual leader in India.",
+      "labels": {
+         "entities": [(0,
+            15,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Nataraja, a form of Shiva, is depicted performing the cosmic dance of creation and destruction.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Jagannath, a form of Vishnu, is worshipped at the famous Jagannath Temple in Puri.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god of wealth, Kubera, is also the protector of treasures in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Indra, the god of thunder and rain, is the king of gods in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha, the remover of obstacles, is widely worshipped at the beginning of new ventures.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Dhanvantari, the god of medicine, is revered for his contributions to Ayurvedic medicine.",
+      "labels": {
+         "entities": [(0,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Nandi, the bull, is the vehicle of Lord Shiva and represents strength and loyalty.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Meenakshi, an incarnation of Parvati, is worshipped in the Meenakshi Temple in Madurai.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Vishvakarman, the architect of the gods, is responsible for creating the palaces and weapons of the deities.",
+      "labels": {
+         "entities": [(0,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Goddess Kali is the mother of creation, known for her terrifying yet nurturing nature.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Annapurna is revered as the provider of food and nourishment.",
+      "labels": {
+         "entities": [(4,
+            13,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Venkateswara, an incarnation of Vishnu, is the presiding deity of the Tirumala Tirupati Temple.",
+      "labels": {
+         "entities": [(0,
+            13,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Narasimha, a half-man, half-lion incarnation of Vishnu, symbolizes the protection of good over evil.",
+      "labels": {
+         "entities": [(0,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Yogmaya is associated with the divine power of yoga and meditation.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Bhairava, a fierce form of Shiva, is worshipped as the god of annihilation.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Skanda, also known as Kartikeya, is revered as the god of war in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Brahman, the ultimate reality, is the source of all creation in Hindu philosophy.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Sita, known for her purity and devotion, is the central character in the Ramayana.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishwakarma is the divine architect of the gods, known for creating celestial palaces and weapons.",
+      "labels": {
+         "entities": [(0,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Santoshi Mata is the goddess of satisfaction and contentment in Hindu folklore.",
+      "labels": {
+         "entities": [(0,
+            12,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Ayyappa, the son of Shiva and Vishnu, is widely worshipped in South India.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Bhavani is worshipped as a form of Parvati, associated with power and protection.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Surya is often depicted riding a chariot drawn by seven horses.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Gokarna is a form of Lord Shiva worshipped in the Gokarna Temple in Karnataka.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Mahadeva, another name for Shiva, is the destroyer and regenerator of the universe.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Yama is the ruler of the afterlife, responsible for the souls of the departed.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Kailasa, the sacred abode of Lord Shiva, is located in the Himalayas.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "LOCATION")
+         ]
+      }
+   },
+   {
+      "text": "Kashi, also known as Varanasi, is the spiritual home of Lord Shiva.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "LOCATION")
+         ]
+      }
+   },
+   {
+      "text": "Soma, the moon god, is also associated with the soma plant and its intoxicating juice.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god of love, Kamadeva, is depicted with a bow made of sugarcane and arrows of flowers.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The river Yamuna, associated with Lord Krishna, is worshipped by millions of devotees.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "RIVER")
+         ]
+      }
+   },
+   {
+      "text": "The Ganges River is sacred to Hindus and is personified as the goddess Ganga.",
+      "labels": {
+         "entities": [(15,
+            20,
+            "RIVER"), (34,
+            39,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The great warrior Arjuna is known for his role in the Mahabharata and his devotion to Lord Krishna.",
+      "labels": {
+         "entities": [(24,
+            30,
+            "PERSON"), (58,
+            65,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shani, the god of justice, is associated with the planet Saturn.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Brahma is the creator of the universe and part of the Hindu trinity, along with Vishnu and Shiva.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Laxmi is revered for her role in bringing prosperity and wealth to the devotees.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shani is said to bring challenges, but his blessings can lead to prosperity.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Vishnu's ten incarnations, or Dashavatara, are revered across the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Rama and Lakshmana are twin brothers, both divine figures in the Ramayana.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY"), (9,
+            17,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Sita, the wife of Rama, is revered as an ideal woman in Hindu tradition.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shivaratri is a festival dedicated to Lord Shiva, celebrated with great reverence.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Kali is often depicted with a necklace of skulls and a fierce expression.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha, remover of obstacles, is worshipped before starting new endeavors.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ram's devotion to his father and dharma is considered a model of righteousness.",
+      "labels": {
+         "entities": [(0,
+            3,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The great sage Vyasa, revered for compiling the Vedas and composing the Mahabharata.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "PERSON")
+         ]
+      }
+   },
+   {
+      "text": "Brahma, the creator god, is part of the holy trinity of Hinduism along with Vishnu and Shiva.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is the embodiment of wisdom, music, and arts.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Narayana is the preserver of the universe, maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Shiva's trident symbolizes his control over creation, preservation, and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga represents divine power and is worshipped during the festival of Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is the protector and preserver of the universe in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha, the elephant-headed god, is the son of Shiva and Parvati.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, along with Lakshmi, is said to have incarnated as various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Kartikeya is the commander-in-chief of the army of the gods and the god of war.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Brahman is the ultimate, formless, and eternal reality in Hindu philosophy.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is the deity of wealth, light, and prosperity.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna is the god of compassion, tenderness, and love in the Bhagavad Gita.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Vishnu is often depicted reclining on the cosmic serpent Ananta Shesha.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Narayana's ten avatars, including Vishnu's incarnation as Matsya, are significant in Hindu belief.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Surya is the sun god, often depicted riding a chariot drawn by seven horses.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Brahma, Vishnu, and Shiva are the three principal gods in Hinduism, representing creation, preservation, and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (6,
+            12,
+            "DEITY"), (13,
+            19,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Radha is considered the eternal consort of Lord Krishna in the Vaishnavism tradition.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Dattatreya, a combined incarnation of Brahma, Vishnu, and Shiva, is worshipped for spiritual liberation.",
+      "labels": {
+         "entities": [(0,
+            13,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Agni is the deity of fire and the one who carries the sacrifices to the gods.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Bhairavi, a fierce aspect of Parvati, is invoked for destruction and transformation.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Varuna, associated with the oceans and cosmic order, is an important Vedic deity.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Indra, the king of the gods and the god of thunder and rain, is a major deity in Hindu mythology.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Vayu is the deity of wind and air in Hinduism.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Kubera is the deity of wealth and the treasurer of the gods.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Brahma, Vishnu, and Shiva are often worshipped together as the Trimurti, representing the cosmic functions of creation, preservation, and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (6,
+            12,
+            "DEITY"), (13,
+            19,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Ganga is worshipped as the river goddess and is believed to purify all sins.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Rudra, a fierce aspect of Shiva, is invoked for purification and blessings.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped in various forms across India, especially during the festival of Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Vishnu is worshipped in numerous forms, including as Venkateswara, Narayana, and Krishna.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Agni is invoked during sacrifices to carry offerings to the gods and purify the environment.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Kali is associated with destruction, time, and transformation.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva, known as the god of destruction and regeneration, is worshipped in various forms like Nataraja, Lingam, and Bhairava.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna's teachings in the Bhagavad Gita are considered a guide to righteous living and devotion.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha is worshipped at the beginning of new ventures to remove obstacles and bring success.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is worshipped for her blessings of wealth, fortune, and prosperity.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Hanuman, the monkey god, is worshipped for his strength, devotion, and courage.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's consort Lakshmi is the goddess of wealth and prosperity.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY"), (7,
+            14,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Brahma is the creator god, and his consort Saraswati is the goddess of knowledge and wisdom.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (26,
+            34,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva's consort Parvati is considered the mother of Ganesha and Kartikeya.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (26,
+            33,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is depicted riding a lion and carrying weapons in her multiple arms.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is the preserver of the universe and is often depicted lying on the cosmic serpent.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is worshipped by students for wisdom and knowledge.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Rama is known for his unwavering commitment to duty, righteousness, and family.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Radha represents divine love and devotion and is the eternal consort of Lord Krishna.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's incarnations, such as Narasimha and Vamana, are significant in Hindu belief.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is depicted in various forms such as Nataraja, the cosmic dancer, and Mahadeva, the great god.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha is worshipped at the beginning of any new venture to ensure success and remove obstacles.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Parvati is known for her compassion, love, and devotion to Lord Shiva.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Kartikeya is known as the god of war and is worshipped for victory and protection.",
+      "labels": {
+         "entities": [(0,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva's form as Bhairava is a manifestation of destruction and regeneration.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's ten incarnations are collectively known as the Dashavatara, each representing a different aspect of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is revered for her role in bringing prosperity and well-being to her devotees.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Surya is worshipped as the sun god and is associated with health, vitality, and success.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god of wisdom and knowledge, Lord Ganesha, is the remover of obstacles.",
+      "labels": {
+         "entities": [(4,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, incarnates in various forms to protect creation.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna is worshipped as the divine teacher of the Bhagavad Gita.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva's consort Parvati is known for her beauty and divine grace.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (26,
+            33,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped as the embodiment of strength, courage, and divine power.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is the protector and sustainer of life and is worshipped in many forms, including as Venkateswara and Narayana.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati, the goddess of wisdom and knowledge, is invoked by students and scholars.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatar, as the boar Varaha, is believed to have rescued the Earth from the demon Hiranyaksha.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Hanuman is revered for his unparalleled strength, devotion to Lord Rama, and his heroic deeds during the battle against Ravana.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's ten incarnations, known as Dashavatara, represent the cycle of creation and destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Rama is revered for his unwavering commitment to dharma, his moral integrity, and his devotion to his family.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is invoked during the festival of Durga Puja to bless devotees with power, protection, and prosperity.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Brahma, Vishnu, and Shiva are often worshipped together as the Trimurti, representing the cosmic functions of creation, preservation, and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (6,
+            12,
+            "DEITY"), (13,
+            19,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the protector of the universe, often depicted in his various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna's teachings in the Bhagavad Gita are considered a guide to righteousness and devotion.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's consort, Lakshmi, is the goddess of wealth and prosperity, worshipped during festivals like Diwali.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY"), (7,
+            14,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Radha is worshipped as the divine consort of Lord Krishna, symbolizing love and devotion.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is revered for her role as the goddess of wisdom, art, and learning.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Hanuman is worshipped as the god of strength, devotion, and courage, and is associated with the epic Ramayana.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is worshipped as the destroyer and regenerator in Hinduism, often depicted in his Nataraja form.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Kali is worshipped for her transformative power and ability to destroy negativity and ignorance.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the preserver of the universe, and his followers believe in his protection and care.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva's consort Parvati is revered for her nurturing qualities and role as the mother of Ganesha and Kartikeya.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (26,
+            33,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic order, as the protector of all living beings.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Brahma is considered the creator god, responsible for the creation of the universe and all life.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is worshipped in various forms, such as Narayana, Venkateswara, and Rama.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is often depicted lying on the cosmic serpent, Ananta.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna is considered the eighth incarnation of Lord Vishnu, and his life is a guide to righteous living.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is worshipped during Diwali to bring prosperity, wealth, and good fortune.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Vishnu is revered as the preserver of the universe and worshipped in many forms, including as Narayana and Venkateswara.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is worshipped as the god of destruction and transformation in Hinduism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is worshipped as the goddess of wealth and prosperity, and is considered a bringer of good fortune.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Ganesha is worshipped as the remover of obstacles, especially at the start of new ventures.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector and preserver of the universe, especially in times of crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Hanuman is worshipped for his strength, courage, and devotion, and is a key figure in the Ramayana.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his preservation of the world and the restoration of balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna is worshipped for his divine wisdom, especially through the teachings of the Bhagavad Gita.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's consort Lakshmi is revered as the goddess of wealth and prosperity, and is worshipped during festivals like Diwali.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is worshipped as the ultimate reality and the god of destruction and regeneration in Hinduism.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining the cosmic order and his protection of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Rama is revered as the ideal king and hero in Hindu mythology, embodying virtues of righteousness and devotion.",
+      "labels": {
+         "entities": [(0,
+            4,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is the preserver and protector of the universe, and his followers believe in his ability to protect and guide them.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is revered by students and scholars as the goddess of wisdom and knowledge.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Brahma is known as the creator of the universe, and his consort Saraswati is the goddess of wisdom.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY"), (26,
+            34,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the preserver of life and the cosmos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva, the god of destruction, is revered for his power to remove evil and bring transformation.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is invoked for protection and power, especially during the festival of Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The god Agni is invoked during sacrifices and rituals to purify the environment and the offerings.",
+      "labels": {
+         "entities": [(4,
+            8,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is often depicted in his various forms to protect and maintain the cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is often depicted as Nataraja, the cosmic dancer, representing the rhythm of creation and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate on Earth in various avatars to restore cosmic order and protect the good.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna's teachings in the Bhagavad Gita provide valuable lessons on dharma, devotion, and selfless action.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is revered as the goddess of knowledge, art, and music, especially by students and artists.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is worshipped as the destroyer and transformer of the universe, often depicted in his fierce form of Rudra.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is often depicted as a blue-skinned deity, holding a conch, a discus, and a mace.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped for her strength, power, and ability to destroy evil forces.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, in his avatar as the fish Matsya, is believed to have saved the ancient texts from the deluge.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna is a central figure in the Mahabharata, revered for his wisdom and guidance to Arjuna.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the protector of the universe and is believed to incarnate whenever the world is in danger.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Hanuman is revered as the deity of strength and devotion, and is often invoked for courage and success.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is often depicted in his meditation form, symbolizing the balance between creation and destruction.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine preserver and protector, and is often called upon during times of crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's worshippers believe that he is the ultimate protector, safeguarding the cosmos from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Krishna's devotees consider him to be the supreme god, representing love, devotion, and the ideal way of life.",
+      "labels": {
+         "entities": [(0,
+            7,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver, is worshipped in many forms, including as Narayana and Venkateswara, and is considered the protector of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is often depicted as a blue-skinned figure with four arms, holding a conch, discus, mace, and lotus.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is often associated with the protection of the universe, symbolized by his incarnation as various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of life, is believed to intervene in times of crisis to restore cosmic balance and protect humanity.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, often invoked to bring peace and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, invoked during times of crisis to restore order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is invoked for protection and strength, especially during the festival of Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatars, including Krishna and Rama, are worshipped by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY"), (7,
+            13,
+            "DEITY"), (14,
+            19,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is the protector of the universe and is believed to incarnate on Earth during times of crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees consider him the preserver of life, symbolized by his blue skin and four arms.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to maintain the cosmic order and protect humanity from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is considered one of the most important deities in Hinduism.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his role as the preserver of the universe, is worshipped in various forms across India.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi, consort of Vishnu, is worshipped during Diwali for prosperity and wealth.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the preserver of the universe, often depicted in his various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped during Durga Puja for protection and strength.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is invoked for wisdom, learning, and knowledge during festivals.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatar, the dwarf Vamana, is believed to have taken the form of a dwarf to defeat the demon king Bali.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped during the festival of Durga Puja for her power to defeat evil.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that he is the divine protector, maintaining the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is worshipped for her power and grace, often depicted with many arms and riding a tiger.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the protector of the universe, often depicted holding a conch, discus, and mace.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Durga is invoked for her strength and power during Durga Puja.",
+      "labels": {
+         "entities": [(4,
+            9,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the protector of the universe and is believed to incarnate during times of crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is revered as the goddess of knowledge and is often invoked by students.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector and preserver of the universe, often depicted in various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Shiva is worshipped as the god of destruction, often depicted in his meditative form.",
+      "labels": {
+         "entities": [(0,
+            5,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Saraswati is revered as the goddess of wisdom, especially during the festival of Vasant Panchami.",
+      "labels": {
+         "entities": [(4,
+            11,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is often depicted in his various avatars to protect the cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatars include Lord Rama, Lord Krishna, and the fish Matsya, who protected ancient scriptures.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY"), (7,
+            11,
+            "DEITY"), (12,
+            19,
+            "DEITY"), (20,
+            25,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's worshippers believe that his incarnations are divine interventions to restore balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver, is believed to incarnate on Earth to protect the world from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to restore cosmic balance through his avatars and divine actions.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatars include Rama, Krishna, and the fish Matsya, each symbolizing a different aspect of cosmic protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "The goddess Lakshmi is worshipped for prosperity and wealth, especially during the festival of Diwali.",
+      "labels": {
+         "entities": [(4,
+            10,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's worshippers believe that he incarnates in different forms to restore cosmic order and protect the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector of the universe, is worshipped by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is often depicted with four arms, holding a conch, discus, mace, and lotus.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that he is the ultimate protector, safeguarding the cosmos from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of life, is often depicted holding various symbols of protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in many forms, including as Narayana, Venkateswara, and Varaha, each representing a different aspect of cosmic protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in his various avatars, such as Rama and Krishna, for the protection and preservation of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is believed to incarnate in various forms to maintain cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector, whose avatars restore balance and harmony to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that he incarnates to protect the world and restore cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the protector of the universe and the ultimate preserver of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is believed to incarnate in different forms to maintain cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector and preserver, believed to incarnate in various avatars to restore cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is believed to maintain cosmic order and balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in various forms, including Narayana and Venkateswara, for the protection and preservation of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is believed to incarnate in various forms to maintain balance and restore cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector, and his avatars are believed to restore balance and protect the world from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in his various forms, including Narayana and Venkateswara, for the protection and preservation of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of the universe, is believed to incarnate in different forms to protect the world from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver, is revered by millions of devotees for his role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that his avatars restore cosmic order and protect the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate in various forms to restore cosmic order and protect the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is worshipped by millions of devotees worldwide, seeking his blessings for peace and prosperity.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his role in maintaining cosmic order, is worshipped in his various avatars across India.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine preserver, believed to incarnate in various forms to protect the universe from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is considered the protector of the universe, believed to maintain cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the preserver of life, is believed to incarnate in various forms to restore balance and protect humanity.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his role as the protector of the universe, is worshipped in various forms to maintain cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is worshipped for his role in preserving life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of the universe, is worshipped by millions of devotees across India.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector and preserver of the universe, often depicted holding the symbols of protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, the preserver of the universe, is worshipped as the divine protector, believed to maintain cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is revered by millions of devotees for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatars, such as Lord Rama and Lord Krishna, are worshipped for their roles in protecting the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the protector of the universe, believed to incarnate whenever there is a threat to cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his role as the preserver of the universe and is worshipped by millions of devotees across India.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine intervention in times of crisis, is worshipped in various forms for the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector of the universe, is often invoked by his devotees for protection and guidance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector, believed to incarnate in various forms to restore balance in the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic balance, especially during times of turmoil and crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of life, is revered for his divine role in maintaining the order of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped for his divine role in safeguarding the cosmos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in his various forms, including Narayana, Venkateswara, and Matsya, to seek his divine protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver, is invoked by his devotees for his role in protecting the world and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate as different avatars to restore cosmic order and protect the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role as the protector, is worshipped in his various forms to restore balance and harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of the universe, believed to incarnate to restore cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector, is worshipped by millions of devotees worldwide for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped by millions of devotees for his role as the preserver and protector of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his divine role in preserving the balance of the universe and protecting life from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that he incarnates in different forms to restore balance and protect the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate in different forms to protect the world from destruction and restore cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector of the universe, is worshipped for his divine role in safeguarding the cosmos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that his avatars are divine interventions that restore balance and protect the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the preserver of the universe, is worshipped by millions of devotees seeking his blessings for peace and prosperity.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the protector of the universe, revered for his divine role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his role as the protector, is worshipped in various forms to restore balance and maintain cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver, is worshipped by millions of devotees for his role in restoring balance and maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped to seek his blessings for the preservation of life and the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of the universe, is revered for his divine role in protecting the world from destruction and chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic balance, especially during times of turmoil and crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of the universe, believed to incarnate in different forms to restore balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped by millions for his divine intervention in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and cosmic balance, especially in times of crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's devotees believe that his incarnations are divine interventions to restore cosmic balance and protect the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate in different forms to protect the world from destruction and restore cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector of the universe, is worshipped for his divine role in safeguarding life and restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu's avatars are believed to incarnate to restore balance and protect the world from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role as the protector of the universe, is worshipped in his various avatars.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, believed to incarnate in various forms to restore cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the protector of the universe, is worshipped in various forms to restore balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector, believed to incarnate to restore cosmic order and protect the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the protector of the universe, is worshipped by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is believed to incarnate in different forms to restore balance and protect the world from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the protector of the universe, revered for his divine intervention in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped to restore balance and preserve cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped in various forms, each symbolizing a different aspect of cosmic preservation and protection.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of the universe, is worshipped for his divine role in restoring balance and harmony to the world.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his role as the protector of life and the universe, worshipped by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of the universe, especially during times of cosmic crisis.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine protection of the universe, is worshipped in various forms for his cosmic role in maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector, believed to incarnate to restore balance and protect the universe from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver, is worshipped for his role in sustaining life and cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the protector, is worshipped for his divine intervention in safeguarding life and maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in maintaining cosmic order and protecting the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the preserver of the universe, revered for his divine role in maintaining cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped to maintain cosmic order and restore balance in times of chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector, worshipped for his role in restoring cosmic balance and maintaining order in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector of the universe, is worshipped for his role in maintaining cosmic harmony and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, believed to incarnate in different forms to restore cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role in protecting the universe, is worshipped for his role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver of life, is worshipped for his role in maintaining cosmic balance and restoring harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in safeguarding the universe from destruction and chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his divine role in preserving the balance of the universe and protecting life from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic order and maintaining balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped to restore balance and protect the universe from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped to maintain cosmic harmony and restore balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, believed to incarnate in various forms to restore cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role in protecting the universe, is worshipped by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver of life, is worshipped for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector of the universe, is worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of the universe, revered for his role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in safeguarding the universe from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the divine protector of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector, is worshipped for his divine role in safeguarding the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the preserver of life and the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role as the ultimate protector, is worshipped for his role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the preserver of life and the universe, is worshipped by millions of devotees for his divine role in restoring balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of the universe, revered for his divine intervention in restoring balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the protector of life, is worshipped by millions for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the protector of life and the universe, worshipped by millions for his divine intervention.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped to restore cosmic order and maintain the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped by millions as the divine protector of the universe, revered for his divine role in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the preserver of life and the universe, revered for his divine role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in maintaining cosmic harmony and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver, is worshipped by millions for his role in restoring balance and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and cosmic balance, revered by millions of devotees worldwide.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the ultimate protector, believed to incarnate to restore balance and maintain cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in maintaining cosmic order and balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order, revered as the protector of life and the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his role in sustaining life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of the universe, is worshipped for his divine role in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and the protection of the universe from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his role in maintaining cosmic harmony and restoring balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the preserver of life, is worshipped for his divine role in protecting the universe and maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of life, is worshipped for his role in restoring balance and protecting the universe from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector of life, is worshipped for his divine role in sustaining life and maintaining balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine intervention in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector, is worshipped for his divine role in maintaining the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his divine intervention in protecting life and the universe from chaos.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver of the universe, is worshipped for his role in maintaining balance and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of the universe, is worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine intervention, is worshipped for his role in the preservation of life and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his role in maintaining cosmic harmony and restoring balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector, is worshipped for his divine role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance and maintaining cosmic order in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of the universe, revered for his divine role in maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine intervention in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role as the preserver of life and the universe, revered for his divine protection of the cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the ultimate protector, is worshipped for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and the maintenance of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic order and balance, revered as the divine protector of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped for his role in preserving cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in preserving cosmic balance and protecting the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped for his role in maintaining the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine preserver of life and the universe, revered for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped by millions for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance to the universe and preserving cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in protecting the universe and maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver, is worshipped for his role in maintaining cosmic balance and restoring order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the preserver of life and the universe, revered for his divine protection of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of life, worshipped for his divine role in preserving cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of the universe, is worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the divine protector of the universe, revered for his divine intervention in preserving cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order and maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of the universe, worshipped for his role in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role as the divine protector of the universe, revered for his divine intervention in maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his role in maintaining cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining balance and order in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector, is worshipped for his divine role in restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in preserving cosmic balance and protecting the universe from destruction.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver of life, is worshipped for his role in protecting the universe and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of the universe, is worshipped for his divine role in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine intervention in restoring cosmic balance, is worshipped for his role in the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of balance and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine intervention in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining balance and harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his role as the divine protector, is worshipped for his role in the preservation of life and balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector, revered for his divine role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of the universe, is worshipped for his role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of life, worshipped for his divine role in the preservation of cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his divine role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in preserving cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine intervention in maintaining balance and cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine preserver of the universe, revered for his role in the protection of life and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic harmony and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector of the universe, is worshipped for his divine role in restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance to the universe and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of life, revered for his divine role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine protector of the universe, is worshipped for his role in the preservation of life and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his role in restoring cosmic balance and preserving life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver of the universe, is worshipped for his divine role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance and protecting the universe from evil.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his role in maintaining cosmic order and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine intervention in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of the universe, is worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of life, is worshipped for his role in maintaining balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, as the divine preserver, is worshipped for his role in restoring balance to the universe and preserving cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining balance in the universe and preserving life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic balance and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine role in maintaining balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine preserver, worshipped for his role in restoring balance to the universe and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine intervention, is worshipped for his role in the preservation of life and the balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order and restoring balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection of life and the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the ultimate protector, is worshipped for his role in preserving cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine role in preserving cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order and maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of the universe, is worshipped for his role in restoring cosmic balance and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his divine role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his divine role in maintaining balance in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine role in restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine intervention in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection and preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector of the universe, is worshipped for his divine role in restoring balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of the universe, is worshipped for his role in restoring cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his role in the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine intervention in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of life, revered for his divine role in the restoration of balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of life, revered for his divine role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in maintaining cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his role in the preservation of life and cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his divine role in restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine protection, is worshipped for his divine role in the restoration of balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the ultimate protector of the universe, revered for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in the restoration of cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of the universe, revered for his divine intervention in restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of the universe, is worshipped for his role in restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and preserving life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine role as the divine protector of the universe, is worshipped for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining balance and cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine preserver, worshipped for his role in restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector, revered for his divine intervention in the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic balance and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of life, revered for his divine role in restoring cosmic balance and maintaining harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic order and preserving life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in restoring cosmic order and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector, worshipped for his divine role in restoring cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance in the universe and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and balance of the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his divine role in restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in maintaining cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine preserver of the universe, revered for his divine role in maintaining cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine protector, is worshipped for his divine role in the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance to the universe and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver, is worshipped for his divine role in the restoration of balance and cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered for his divine protection, is worshipped for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order and restoring balance to the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the balance of the universe and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the ultimate protector of life, worshipped for his divine role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu, revered as the divine preserver of life, is worshipped for his role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance, preserving life, and restoring order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in preserving life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped as the divine protector of life, revered for his divine role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic order and maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector, worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection and restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic order and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic balance and order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and restoring cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic balance and restoring harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine preserver, worshipped for his role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order, maintaining harmony, and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his divine role as the protector of life and the universe, worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order, maintaining balance, and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector, worshipped for his role in the restoration of cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in restoring cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic order and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring balance and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order, balance, and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of the universe, worshipped for his divine role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic balance and maintaining harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the restoration of cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in restoring cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and restoring harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in preserving life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection and restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic order and maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in maintaining cosmic harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in the preservation of life and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine preserver of life, worshipped for his divine role in maintaining cosmic order and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector, worshipped for his divine role in maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic balance and the preservation of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic order, protecting life, and maintaining balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic harmony and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order, maintaining balance, and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic order and the restoration of balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic balance, maintaining harmony, and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection and restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the protection and restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his role in maintaining cosmic order.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining cosmic balance and restoring harmony in the universe.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine preserver of life, worshipped for his role in restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic order and restoring cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the preservation of life and the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in the restoration of cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered for his divine role in protecting life and maintaining cosmic balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his role in restoring cosmic order and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in the restoration of cosmic balance and the protection of life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in restoring cosmic order, maintaining harmony, and protecting life.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is revered as the divine protector of life, worshipped for his divine role in restoring cosmic order and balance.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+   {
+      "text": "Lord Vishnu is worshipped for his divine role in maintaining the cosmic balance and restoring harmony.",
+      "labels": {
+         "entities": [(0,
+            6,
+            "DEITY")
+         ]
+      }
+   },
+]
